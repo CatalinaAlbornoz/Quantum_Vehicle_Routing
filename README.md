@@ -1,5 +1,2 @@
 # Quantum_Vehicle_Routing
-# Quantum_Vehicle_Routing
-# Quantum_Vehicle_Routing
-# Quantum_Vehicle_Routing
-# Quantum_Vehicle_Routing
+Applying quantum computing to tackle vehicle routing problems
